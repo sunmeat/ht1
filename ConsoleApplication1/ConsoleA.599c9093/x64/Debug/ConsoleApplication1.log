@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+  LINK : не найден или не выполнена сборка C:\Users\Alex\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe при последней инкрементной компоновке; выполняется полная компоновка
+ht2.obj : error LNK2005: main уже определен в ConsoleApplication1.obj
+C:\Users\Alex\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
